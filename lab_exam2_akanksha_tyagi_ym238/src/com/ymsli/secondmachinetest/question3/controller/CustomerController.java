@@ -14,7 +14,7 @@ public class CustomerController {
 		CustomerService customerService=new CustomerServiceImpl();
 
 		
-//		Customer customer=new Customer("akanksha tyagi", "muradnagar", "", new Date(201,02,13));	
+//		Customer customer=new Customer("akanksha tyagi", "muradnagar", "8650710164", new Date(201,02,13));	
 //		customerService.addCustomer(customer);
 //		Customer customer=new Customer("deepshikha", "chaudhary", "9012625496", new Date(1999,06,25));	
 //		customerService.addCustomer(customer);
