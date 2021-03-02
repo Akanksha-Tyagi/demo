@@ -1,8 +1,8 @@
-package com.ymsli.firstmachinetest.question1;
+package com.ymsli.secondmachinetest.question2;
 
 import java.util.Random;
 
-class RandomThreadTotal implements Runnable {
+public class RandomThreadTotal implements Runnable {
 
 	Random r = new Random();
 
@@ -46,7 +46,7 @@ class RandomThreadTotal implements Runnable {
 		Thread thread4 = new Thread(randomThread4);
 
 		Thread thread5 = new Thread(randomThread5);
-		//first start the mthreads  by calling styart methods threads got registered.
+		//first start the mthreads  by calling start methods threads got registered.
 
 		thread1.start();
 
