@@ -1,24 +1,6 @@
  <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8" session="false"%>
     
-<!-- <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Add new cutomer</title>
-
-</head>
-<body>
-<form action="traineecontroller.do" method="POST">
-<input type="hidden" name="id" value="0" >
-	Name: <input type="text" name="trainee_name" /> <br>
-	Address: <input name="branch" rows="4" cols="20"> <br>
-	Mobile: <input name="mobile" size="9" /> <br>
-	<input type="submit" value="Add" />
-	</form>
-	
-</body>
-</html> -->
 
 <!DOCTYPE html>
 <html lang="en">
