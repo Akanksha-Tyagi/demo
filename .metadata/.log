@@ -5479,3 +5479,8 @@ java.lang.Exception: File not found: C:\Users\ve00ym238\Desktop\ymslimachinetest
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 2 2021-03-04 17:59:44.560
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-03-04 17:59:44.560
+!MESSAGE The project description file (.project) for 'spring_boot_rest_controller' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
