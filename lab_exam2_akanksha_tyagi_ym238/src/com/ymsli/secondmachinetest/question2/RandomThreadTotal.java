@@ -46,7 +46,7 @@ public class RandomThreadTotal implements Runnable {
 		Thread thread4 = new Thread(randomThread4);
 
 		Thread thread5 = new Thread(randomThread5);
-		//first start the mthreads  by calling start methods threads got registered.
+		// first start the threads by calling start methods threads got registered.
 
 		thread1.start();
 
@@ -59,7 +59,7 @@ public class RandomThreadTotal implements Runnable {
 		thread5.start();
 
 		// then calling join
-		
+
 		thread1.join();
 
 		thread2.join();

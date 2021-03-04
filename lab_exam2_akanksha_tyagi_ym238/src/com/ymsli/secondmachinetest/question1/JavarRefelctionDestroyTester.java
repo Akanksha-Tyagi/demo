@@ -1,6 +1,7 @@
 package com.ymsli.secondmachinetest.question1;
 
 import java.lang.reflect.Constructor;
+
 import java.lang.reflect.InvocationTargetException;
 
 //7.	Using Reflection to destroy Singleton Pattern
